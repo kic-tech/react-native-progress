@@ -1,4 +1,4 @@
-declare module 'react-native-progress' {
+declare module '@kictech/react-native-progress' {
   import React from 'react';
   import { TextStyle, ViewProperties } from 'react-native';
 
